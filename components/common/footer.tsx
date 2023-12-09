@@ -28,12 +28,13 @@ const Footer = () => {
       <h1 className="font-medium text-3xl md:text-4xl text-center">
         Connect with me on social media.
       </h1>
-      <div className="flex mt-8">{renderSocialIcons()}</div>
+
       <div className="flex mt-8">
         <Button
+          href={'https://beian.miit.gov.cn/'}
           classes="mr-3"
           type={ButtonTypes.OUTLINE}
-          name="Resume"
+          name="渝ICP备2020010176号-1"
           otherProps={{
             target: "_blank",
             rel: "noreferrer",
@@ -51,12 +52,13 @@ const Footer = () => {
         ></Button>
       </div>
       <h2 className="text-center text-sm sm:text-base mt-8">
-        Designed and Developed with ❤️ by Ayush
+        Designed and Developed with ❤️ by Ayush & SYJun
       </h2>
+      <div className="flex mt-8">{renderSocialIcons()}</div>
     </>
   );
 
-  const { ref: footerRef } = MENULINKS[3];
+  const {ref: footerRef} = MENULINKS[3];
 
   return (
     <footer
