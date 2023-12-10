@@ -5,7 +5,7 @@
 // License text available at https://opensource.org/licenses/MIT
 
 export const METADATA = {
-  title: "Modest SYJun",
+  title: "SYJun's Blog",
   description:
     "Modest SYJun Java_S",
   siteUrl: "https://syjun.vip/",
