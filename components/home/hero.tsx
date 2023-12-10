@@ -12,7 +12,6 @@ import { gsap, Linear } from "gsap";
 import Button, { ButtonTypes } from "../common/button";
 import HeroImage from "./hero-image";
 import About from "@/components/common/about";
-import BlurryModal from "@/components/common/blurryModal";
 
 const HERO_STYLES = {
   SECTION:
