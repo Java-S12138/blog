@@ -1,10 +1,13 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-## FOLIO
+## SYJUN
 
-[Live Demo](https://ayushsingh.net/)
+[Live Demo](https://syjun.vip/)
 
-To cater to my goal of having my own portfolio website since 2016 🚀
+[Original Github](https://github.com/ayush013/folio/)
+
+
+To cater to my goal of having my own portfolio website since 2016 By Ayush🚀
 
 ## How did I create this?
 
